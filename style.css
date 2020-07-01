@@ -210,6 +210,9 @@ footer {
   color: gray;
   font-weight: 500;
 }
+footer p {
+  transition: 0.5s;
+}
 footer p:hover {
   color: black;
 }
