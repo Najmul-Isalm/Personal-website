@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .header {
   width: 100%;
@@ -20,7 +20,7 @@ body {
 }
 .header-text h1 {
   font-size: 50px;
-  font-weight: 300;
+  font-weight: 900;
   padding: 10px 0;
 }
 .header-text h2 {
@@ -41,12 +41,11 @@ body {
   text-decoration: none;
   width: 150px;
   background-color: #eb4b7a;
-  padding: 15px 43px;
+  padding: 15px 41px;
   display: inline-block;
   border-radius: 5px;
   color: white;
   font-size: 18px;
-  font-weight: bold;
 }
 .header-img {
   width: 55%;
@@ -83,7 +82,7 @@ body {
   padding: 20px 0;
 }
 .boi-text p {
-  font-size: 25px;
+  font-size: 20px;
   padding: 10px 0;
   color: gray;
   margin-bottom: 40px;
@@ -91,14 +90,13 @@ body {
 }
 .boi-text a {
   text-decoration: none;
-  width: 200px;
+  width: 215px;
   background-color: #eb4b7a;
   padding: 20px 45px;
   display: inline-block;
   border-radius: 5px;
   color: white;
   font-size: 18px;
-  font-weight: bold;
 }
 /* my letest work section  */
 
@@ -150,6 +148,7 @@ body {
 .about-text p {
   font-size: 25px;
   padding-bottom: 60px;
+  color: rgba(0, 0, 0, 0.664);
 }
 .about-mail {
   width: 900px;
@@ -160,7 +159,7 @@ body {
   text-align: center;
 }
 .about-mail p {
-  font-size: 25px;
+  font-size: 22px;
   padding: 50px 0;
   color: white;
 }
@@ -168,7 +167,6 @@ body {
   text-decoration: none;
   font-size: 30px;
   color: white;
-  font-weight: 600;
 }
 footer {
   text-align: center;
